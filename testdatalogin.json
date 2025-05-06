@@ -1,0 +1,18 @@
+[
+    {
+        "id":1,
+    "username": "jagadeesh1",
+    "password": "admin@123"
+  },
+
+  {
+    "id":2,
+    "username": "jagadeesh12",
+    "password": "admin@1234567"
+  },
+  {
+    "id":3,
+    "username": "jagadeesh123",
+    "password": "admin@wqertyuiodfgyhui"
+  }
+]
