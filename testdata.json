@@ -1,0 +1,15 @@
+{
+"username":"jagadeesh",
+"password":"admin",
+"name":"admin",
+"interest":["Cricket","Volleyball","Basketball"],
+"address":{
+
+   "State":"Tamil Nadu",
+   "City":"Chennai",
+   "pincode":"600001"
+
+
+}
+
+}

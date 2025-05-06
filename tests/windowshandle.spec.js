@@ -1,4 +1,6 @@
 const{test,expect}=require('@playwright/test')
+
+
 test("windowshandle",async({browser})=>{
 
 const context=await browser.newContext()
@@ -31,8 +33,6 @@ await page.waitForTimeout(3000)
 const parentPage=await page.url()
 console.log("parentUrl is: "+ parentPage);
 expect(parentPage).toContain("https://www.tutorialspoint.com/selenium/practice/browser-windows.php")
-
-
 
 
 
